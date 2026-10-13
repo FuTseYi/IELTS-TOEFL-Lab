@@ -12,6 +12,7 @@
 | **01 · 个人备考经验** | 自己的时间线、方法、考试经历和反思 | [个人经验总览](experiences/README.md) |
 | **02 · 学习资源推荐** | 雅思老师、B站视频、托福免费练习网站 | [资源推荐总览](resources/README.md) |
 | **03 · 考试信息与参考** | 官方网站和需要持续核实的考试规则 | [官方参考](references/README.md) |
+| **04 · AI 学习提示词** | 跨平台雅思口语陪练与模拟考试 Prompt | [AI Prompts](prompts/README.md) |
 
 ### 01｜个人备考经验 · Experiences
 
@@ -27,11 +28,17 @@
 
 - [IELTS / TOEFL 官方参考入口](references/README.md)
 
+### 04｜AI 学习提示词 · AI Prompts
+
+- [AI IELTS Speaking Coach & Examiner｜雅思口语陪练与模拟考试](prompts/ielts-speaking-coach.md)
+- [AI Prompts｜使用说明与兼容性](prompts/README.md)
+
 ## 🧭 如何使用
 
 - **想看真实经历**：从“个人备考经验”进入；其中未整理完的部分会明确标记。
 - **想找老师或网站**：直接打开“学习资源推荐”；资源按科目分类，状态分为“自己提及 / 已体验 / 待核实”。
 - **想确认考试规则**：以“考试信息”所列官方入口为准，不用旧经验替代最新政策。
+- **想用 AI 练习口语**：从“AI 学习提示词”选择训练模式，查看平台能力和评分限制。
 
 ## 🔄 更新与维护
 
@@ -46,4 +53,4 @@
 
 ---
 
-Maintained by [FuTseYi](https://github.com/FuTseYi) · Updated: 2026-10-09
+Maintained by [FuTseYi](https://github.com/FuTseYi) · Updated: 2026-10-13
