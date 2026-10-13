@@ -23,6 +23,8 @@
 
 - [雅思 IELTS｜听力、阅读、写作、口语](resources/ielts.md)
 - [托福 TOEFL｜练习网站及学习建议](resources/toefl.md)
+- [雅思｜第三方备考方法与错题复盘摘录](resources/ielts-study-notes.md)
+- [新版 TOEFL｜身边朋友的 6.0 分备考经验分享](resources/toefl-friend-experience.md)
 
 ### 03｜考试信息 · References
 
