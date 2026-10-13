@@ -5,7 +5,7 @@
 - [雅思 IELTS：老师、视频与学习方法](ielts.md)
 - [雅思备考方法笔记：听力、阅读、写作](ielts-study-notes.md)
 - [托福 TOEFL：练习网站与工具](toefl.md)
-- [新版 TOEFL｜身边朋友的 6.0 分备考经验](toefl-friend-experience.md) — 2026 年朋友分享的阅读、听力、写作与口语训练方法（匿名整理）
+- [新版 TOEFL｜身边朋友的 6.0 分备考经验](toefl-friend-experience.md) — 阅读、听力、写作与口语的训练方法
 
 ## 收录标准
 
